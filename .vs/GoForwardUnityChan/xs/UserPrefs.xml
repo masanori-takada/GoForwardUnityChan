@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{B104735C-3E71-34D8-EC34-C2B7B88F2595}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/UIController.cs">
+    <Files>
+      <File FileName="Assets/UnityChanController.cs" Line="14" Column="28" />
+      <File FileName="Assets/CubeController.cs" Line="13" Column="3" />
+      <File FileName="Assets/CubeGenerator.cs" Line="45" Column="34" />
+      <File FileName="Assets/BackgroundController.cs" Line="20" Column="50" />
+      <File FileName="Assets/UIController.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GoForwardUnityChan" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="UnityChan2D" expanded="True">
+                <Node name="Demo" expanded="True" />
+              </Node>
+              <Node name="UIController.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.GoForwardUnityChan PreferredExecutionTarget="866df192-d421-46e6-b09e-f61e3df9bf67" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="52ee9e3f-7ad1-429c-a3dd-93f0b50ffac3" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
